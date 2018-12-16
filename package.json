@@ -1,0 +1,30 @@
+{
+  "name": "word-counter",
+  "version": "1.0.0",
+  "description": "Example of word counter to show how to develop in TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matitalatina/word-counter.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "Mattia Natali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matitalatina/word-counter/issues"
+  },
+  "homepage": "https://github.com/matitalatina/word-counter#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.10",
+    "jest": "^23.6.0",
+    "parcel-bundler": "^1.10.3",
+    "ts-jest": "^23.10.5",
+    "tslint": "^5.11.0",
+    "typescript": "^3.2.2"
+  }
+}
