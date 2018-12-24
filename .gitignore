@@ -20,3 +20,5 @@ typings/
 
 .cache
 
+.vscode/
+
